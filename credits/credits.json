@@ -1,6 +1,48 @@
 {
- "updated_at": "2026-11-03T03:07:28+00:00",
+ "updated_at": "2026-11-03T03:42:49+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261103-3",
+   "title": "Day trips from Prague: a hidden crypt in Mělník",
+   "permalink": "https://www.instagram.com/p/DfQ8S94D31j/",
+   "published_at": "2026-11-03T03:42:47+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Kutna Hora 2021 35.jpg",
+     "author": "Scotch Mist",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Kutna_Hora_2021_35.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Mělník - náměstí Míru (by Pudelek).jpg",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk_-_n%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru_(by_Pudelek).jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Back view of Church of Saints Peter and Paul in Mělník, Mělník District.JPG",
+     "author": "Jiří Sedláček",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Back_view_of_Church_of_Saints_Peter_and_Paul_in_M%C4%9Bln%C3%ADk,_M%C4%9Bln%C3%ADk_District.JPG"
+    },
+    {
+     "slide": 4,
+     "title": "Mělník hill, Mělník, Czech Republic.jpg",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk_hill,_M%C4%9Bln%C3%ADk,_Czech_Republic.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/summer-sports/cycling/s-labe-trail"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261103-2",
    "title": "Pravčická brána, a rock arch in Bohemian Switzerland",
