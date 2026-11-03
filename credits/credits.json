@@ -1,6 +1,55 @@
 {
- "updated_at": "2026-11-03T04:27:23+00:00",
+ "updated_at": "2026-11-03T06:30:27+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261103-repair2",
+   "title": "East Bohemia's sandstone rocks hide a rowboat lake",
+   "permalink": "https://www.instagram.com/p/DfRPeYnGmP-/",
+   "published_at": "2026-11-03T06:30:25+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Adršpach from air 4.jpg",
+     "author": "Karelj",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Adr%C5%A1pach_from_air_4.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Adršpašskoteplické skály 02.JPG",
+     "author": "Lestat (Jan Mehlich)",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Adr%C5%A1pa%C5%A1skoteplick%C3%A9_sk%C3%A1ly_02.JPG"
+    },
+    {
+     "slide": 3,
+     "title": "Rocks in Adršpach-Teplice.jpg",
+     "author": "John Samuel",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rocks_in_Adr%C5%A1pach-Teplice.jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Rock Formations in Adršpašsko-teplické skály 37.jpg",
+     "author": "John Samuel",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rock_Formations_in_Adr%C5%A1pa%C5%A1sko-teplick%C3%A9_sk%C3%A1ly_37.jpg"
+    },
+    {
+     "slide": 5,
+     "title": "Rock Formations in Adršpašsko-teplické skály 05.jpg",
+     "author": "John Samuel",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rock_Formations_in_Adr%C5%A1pa%C5%A1sko-teplick%C3%A9_sk%C3%A1ly_05.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/campaigns/2025/expo/hradec-kralove-region"
+    }
+   ]
+  },
   {
    "slug": "heritage-20261103-repair3",
    "title": "Czech Christmas: the bell that ends the wait",
