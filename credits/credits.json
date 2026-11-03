@@ -1,6 +1,52 @@
 {
- "updated_at": "2026-11-03T06:30:27+00:00",
+ "updated_at": "2026-11-03T12:53:12+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261103-1",
+   "title": "Moravian Karst's Macocha Abyss hides a surprising past",
+   "permalink": "https://www.instagram.com/p/DfR7RuWmt7h/",
+   "published_at": "2026-11-03T12:53:07+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Karlštejn Castle, Czech Republic.JPG",
+     "author": "Ввласенко",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Karl%C5%A1tejn_Castle,_Czech_Republic.JPG"
+    },
+    {
+     "slide": 2,
+     "title": "Propast Macocha.jpg",
+     "author": "Sesivany",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Propast_Macocha.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Punkevni jeskynie17(js).jpg",
+     "author": "Jerzy Strzelecki",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Punkevni_jeskynie17(js).jpg"
+    },
+    {
+     "slide": 6,
+     "title": "Moravian Karst 2022 5.jpg",
+     "author": "Grim128",
+     "license": "CC BY 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Moravian_Karst_2022_5.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/nature/caves/c-moravian-karst"
+    },
+    {
+     "name": "GO TO BRNO",
+     "url": "https://www.gotobrno.cz/en/place/moravian-karst-moravsky-kras/"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261103-repair2",
    "title": "East Bohemia's sandstone rocks hide a rowboat lake",
