@@ -1,6 +1,55 @@
 {
- "updated_at": "2026-11-03T03:42:49+00:00",
+ "updated_at": "2026-11-03T04:05:09+00:00",
  "posts": [
+  {
+   "slug": "heritage-20261103-repair2",
+   "title": "Wilber, a Nebraska town with a Czech festival",
+   "permalink": "https://www.instagram.com/p/DfQ-vJql1jq/",
+   "published_at": "2026-11-03T04:05:07+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Mann-Zwonecek house (Wilber, Nebraska) from SW 2.JPG",
+     "author": "Ammodramus",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Mann-Zwonecek_house_(Wilber,_Nebraska)_from_SW_2.JPG"
+    },
+    {
+     "slide": 2,
+     "title": "Wilber NE Sign.jpg",
+     "author": "AlexHammeke",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Wilber_NE_Sign.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Downtown Wilber, NE.jpg",
+     "author": "Jared Winkler",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Downtown_Wilber,_NE.jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Wilber Sokol auditorium from NE.JPG",
+     "author": "Ammodramus",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Wilber_Sokol_auditorium_from_NE.JPG"
+    },
+    {
+     "slide": 5,
+     "title": "Wilber, Nebraska historical marker.JPG",
+     "author": "Ammodramus",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Wilber,_Nebraska_historical_marker.JPG"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://mzv.gov.cz/chicago/en/culture_events/culture_events/wilber_czech_festival.html"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261103-3",
    "title": "Day trips from Prague: a hidden crypt in Mělník",
