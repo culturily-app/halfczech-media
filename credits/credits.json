@@ -1,6 +1,41 @@
 {
- "updated_at": "2026-11-03T04:05:09+00:00",
+ "updated_at": "2026-11-03T04:27:23+00:00",
  "posts": [
+  {
+   "slug": "heritage-20261103-repair3",
+   "title": "Czech Christmas: the bell that ends the wait",
+   "permalink": "https://www.instagram.com/p/DfRBR0Ql4oV/",
+   "published_at": "2026-11-03T04:27:20+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Czech christmas sweets.jpg",
+     "author": "Kakučan",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czech_christmas_sweets.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Overview of Christmas bell in 2025 at Táborská street in Třebíč, Třebíč District.jpg",
+     "author": "Jiří Sedláček",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Overview_of_Christmas_bell_in_2025_at_T%C3%A1borsk%C3%A1_street_in_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Vánoční večeře - Christmas dinner of the Czech republic.JPG",
+     "author": "Makovec",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:V%C3%A1no%C4%8Dn%C3%AD_ve%C4%8De%C5%99e_-_Christmas_dinner_of_the_Czech_republic.JPG"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/news/2020/12/n-celebrate-christmas-like-a-czech"
+    }
+   ]
+  },
   {
    "slug": "heritage-20261103-repair2",
    "title": "Wilber, a Nebraska town with a Czech festival",
