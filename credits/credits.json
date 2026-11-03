@@ -1,6 +1,62 @@
 {
- "updated_at": "2026-11-01T17:09:23+00:00",
+ "updated_at": "2026-11-03T03:07:28+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261103-2",
+   "title": "Pravčická brána, a rock arch in Bohemian Switzerland",
+   "permalink": "https://www.instagram.com/p/DfQ4IcMl2IF/",
+   "published_at": "2026-11-03T03:07:26+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Nationalpark Böhmische Schweiz 20260919 Ansichten Mühlweg 13.jpg",
+     "author": "NutzerAusBerlin",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Nationalpark_B%C3%B6hmische_Schweiz_20260919_Ansichten_M%C3%BChlweg_13.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Pravčická brána (Prebischtor) - by Pudelek.jpg",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prav%C4%8Dick%C3%A1_br%C3%A1na_(Prebischtor)_-_by_Pudelek.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Sokolí hnízdo (Falkennest).jpg",
+     "author": "Pudelek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sokol%C3%AD_hn%C3%ADzdo_(Falkennest).jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Pravčická brána v Českém Švýcarsku - 17.8.2020.jpg",
+     "author": "Zrzek007",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prav%C4%8Dick%C3%A1_br%C3%A1na_v_%C4%8Cesk%C3%A9m_%C5%A0v%C3%BDcarsku_-_17.8.2020.jpg"
+    },
+    {
+     "slide": 5,
+     "title": "20240317 xl 1116-Path to the Pravčická brána 2024 (Monoculture, man-made climate change, bark beetle infestation, fire) 34.jpg",
+     "author": "Molgreen",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:20240317_xl_1116-Path_to_the_Prav%C4%8Dick%C3%A1_br%C3%A1na_2024_(Monoculture,_man-made_climate_change,_bark_beetle_infestation,_fire)_34.jpg"
+    },
+    {
+     "slide": 6,
+     "title": "Hřensko, okres Děčín.jpg",
+     "author": "Jiří Komárek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:H%C5%99ensko,_okres_D%C4%9B%C4%8D%C3%ADn.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/nature/protected-areas-and-national-parks/c-bohemian-switzerland-national-park"
+    }
+   ]
+  },
   {
    "slug": "heritage-20261101-1",
    "title": "Vánočka: the Czech Christmas bread braided against evil",
