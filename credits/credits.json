@@ -1,6 +1,74 @@
 {
- "updated_at": "2026-11-04T03:06:43+00:00",
+ "updated_at": "2026-11-04T04:40:00+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261104-1",
+   "title": "Konopiště: Franz Ferdinand's Bohemian castle and its 1914 end",
+   "permalink": "https://www.instagram.com/p/DfTj6WGAYL6/",
+   "published_at": "2026-11-04T04:08:27+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Konopiště - fasáda.JPG",
+     "author": "Juan de Vojníkov",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Konopi%C5%A1t%C4%9B_-_fas%C3%A1da.JPG"
+    },
+    {
+     "slide": 2,
+     "title": "Konopiště château near Benešov, Czech Republic.JPG",
+     "author": "Ввласенко",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Konopi%C5%A1t%C4%9B_ch%C3%A2teau_near_Bene%C5%A1ov,_Czech_Republic.JPG"
+    },
+    {
+     "slide": 3,
+     "title": "Archduke Franz Ferdinand of Austria and his daughter Sophie.jpg",
+     "author": "Not mentioned",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Archduke_Franz_Ferdinand_of_Austria_and_his_daughter_Sophie.jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Overview of Konopiště castle, Konopiště, Benešov, Benešov District.JPG",
+     "author": "Jiří Sedláček",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Overview_of_Konopi%C5%A1t%C4%9B_castle,_Konopi%C5%A1t%C4%9B,_Bene%C5%A1ov,_Bene%C5%A1ov_District.JPG"
+    },
+    {
+     "slide": 5,
+     "title": "Konopiště castle near Benešov, Czech Republic.JPG",
+     "author": "Ввласенко",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Konopi%C5%A1t%C4%9B_castle_near_Bene%C5%A1ov,_Czech_Republic.JPG"
+    },
+    {
+     "slide": 6,
+     "title": "Růžová zahrada (Konopiště), pohled na skleník z dolní části.JPG",
+     "author": "Juandev",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:R%C5%AF%C5%BEov%C3%A1_zahrada_(Konopi%C5%A1t%C4%9B),_pohled_na_sklen%C3%ADk_z_doln%C3%AD_%C4%8D%C3%A1sti.JPG"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/chateaux/c-konopiste-chateau"
+    },
+    {
+     "name": "novinky.cz",
+     "url": "https://www.novinky.cz/clanek/domaci-podivejte-se-na-zamek-konopiste-tak-trochu-jinak-322912"
+    },
+    {
+     "name": "benesovsky.denik.cz",
+     "url": "https://benesovsky.denik.cz/zpravy_region/vystava-na-konopisti-pripomina-zivotni-osudy-naslednika-trunu-20140414.html"
+    },
+    {
+     "name": "zamek-konopiste.cz",
+     "url": "https://www.zamek-konopiste.cz/cs/informace-pro-navstevniky/prohlidkove-okruhy/90187-ruzova-zahrada-se-skleniky"
+    }
+   ]
+  },
   {
    "slug": "heritage-20261103-4",
    "title": "3 dates that shaped Czech history",
