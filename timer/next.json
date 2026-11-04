@@ -1,1 +1,1 @@
-{"publish_next": "2026-11-05T00:03:00+00:00", "crons": "|35 7 * * *|5 12 * * *|5 17 * * *|5 19 * * *|5 21 * * *|", "zone": "Europe/Prague", "supply": "running"}
+{"publish_next": "2026-11-05T00:03:00+00:00", "crons": "|5 12 * * *|5 17 * * *|5 19 * * *|", "zone": "Europe/Prague", "supply": "running"}
