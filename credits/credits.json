@@ -1,6 +1,67 @@
 {
- "updated_at": "2026-11-04T13:09:02+00:00",
+ "updated_at": "2026-11-04T21:03:02+00:00",
  "posts": [
+  {
+   "slug": "heritage-20261104-3",
+   "title": "Svíčková, the Czech beef dish saved for special days",
+   "permalink": "https://www.instagram.com/p/DfVYBDfjEPz/",
+   "published_at": "2026-11-04T21:03:00+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "SC Pendolino, JLV, Svíčková na smetaně, 20240606 125901.jpg",
+     "author": "Draceane",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:SC_Pendolino,_JLV,_Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B,_20240606_125901.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Svíčková na smetaně s brusinkovým terčem.jpg",
+     "author": "JOtruba",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B_s_brusinkov%C3%BDm_ter%C4%8Dem.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Svíčková na smetaně.JPG",
+     "author": "Matyáš Havel",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B.JPG"
+    },
+    {
+     "slide": 4,
+     "title": "Svícková na smetane, houskový knedlík, citron, brusinky.jpg",
+     "author": "Nillerdk",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sv%C3%ADckov%C3%A1_na_smetane,_houskov%C3%BD_knedl%C3%ADk,_citron,_brusinky.jpg"
+    },
+    {
+     "slide": 5,
+     "title": "Restaurace Pod kaštanem, Hory, Czech Republic June 2022 - Svíčková na smetaně.jpg",
+     "author": "Sharon Hahn Darlin",
+     "license": "CC BY 2.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Restaurace_Pod_ka%C5%A1tanem,_Hory,_Czech_Republic_June_2022_-_Sv%C3%AD%C4%8Dkov%C3%A1_na_smetan%C4%9B.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/gastronomic-tourism/czech-cuisine-and-regional-products/g-svickova-na-smetane"
+    },
+    {
+     "name": "GO TO BRNO",
+     "url": "https://www.gotobrno.cz/en/brno-phenomenon/dont-try-to-define-czech-food-just-enjoy-it/"
+    },
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://mzv.gov.cz/warsaw/en/general_information_on_the_czech/tourist_information/index.html"
+    },
+    {
+     "name": "denik.cz",
+     "url": "https://www.denik.cz/regiony/knedlickova-polevka-a-svickova-podobu-svateb-v-cesku-meni-zazitkova-gastronomie/"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261104-2",
    "title": "Czech priest Prokop Diviš and his lightning rod",
