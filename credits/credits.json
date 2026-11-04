@@ -1,6 +1,60 @@
 {
- "updated_at": "2026-11-03T12:53:12+00:00",
+ "updated_at": "2026-11-04T03:06:43+00:00",
  "posts": [
+  {
+   "slug": "heritage-20261103-4",
+   "title": "3 dates that shaped Czech history",
+   "permalink": "https://www.instagram.com/p/DfTc9gzlJf1/",
+   "published_at": "2026-11-04T03:06:41+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Prague, Old Town Square, COVID.jpg",
+     "author": "Tadeáš Gregor",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prague,_Old_Town_Square,_COVID.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Praha Karolinum ext 3.jpg",
+     "author": "VitVit",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Praha_Karolinum_ext_3.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Prag, Wenzelsplatz -- 2019 -- 6852.jpg",
+     "author": "Dietmar Rabich",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prag,_Wenzelsplatz_--_2019_--_6852.jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Villa Tugendhat 2006-07-26 Brno 226.JPG",
+     "author": "Norbert Aepli, Switzerland (User:Noebu)",
+     "license": "CC BY 2.5",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Villa_Tugendhat_2006-07-26_Brno_226.JPG"
+    }
+   ],
+   "sources": [
+    {
+     "name": "cuni.cz",
+     "url": "https://cuni.cz/UKEN-106.html"
+    },
+    {
+     "name": "Prague City Tourism",
+     "url": "https://prague.eu/en/objevujte/karolinum/"
+    },
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/news/2018/10/n-celebration-100-anniversary-czechoslovakia"
+    },
+    {
+     "name": "Office of the Historian",
+     "url": "https://history.state.gov/countries/czech-republic"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261103-1",
    "title": "Moravian Karst's Macocha Abyss hides a surprising past",
