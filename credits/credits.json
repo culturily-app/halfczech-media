@@ -1,6 +1,66 @@
 {
- "updated_at": "2026-11-04T04:40:00+00:00",
+ "updated_at": "2026-11-04T13:09:02+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261104-2",
+   "title": "Czech priest Prokop Diviš and his lightning rod",
+   "permalink": "https://www.instagram.com/p/DfUhxjmF2mM/",
+   "published_at": "2026-11-04T13:09:00+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Prokop Diviš – Jan Vilímek – České album.jpg",
+     "author": "Jan Vilímek",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prokop_Divi%C5%A1_%E2%80%93_Jan_Vil%C3%ADmek_%E2%80%93_%C4%8Cesk%C3%A9_album.jpg"
+    },
+    {
+     "slide": 2,
+     "title": "Znojmo, Divišovo náměstí, pomník Prokopa Diviše (1).jpg",
+     "author": "Jan Polák",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Znojmo,_Divi%C5%A1ovo_n%C3%A1m%C4%9Bst%C3%AD,_pomn%C3%ADk_Prokopa_Divi%C5%A1e_(1).jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Znojmo, Divišovo náměstí, pomník Prokopa Diviše (2).jpg",
+     "author": "Jan Polák",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Znojmo,_Divi%C5%A1ovo_n%C3%A1m%C4%9Bst%C3%AD,_pomn%C3%ADk_Prokopa_Divi%C5%A1e_(2).jpg"
+    },
+    {
+     "slide": 4,
+     "title": "Přímětice, kostel.jpg",
+     "author": "Palickap",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADm%C4%9Btice,_kostel.jpg"
+    },
+    {
+     "slide": 5,
+     "title": "Znojmo-Divišovo-náměstí-busta-Prokopa-Diviše2019.jpg",
+     "author": "Ben Skála, Benfoto",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Znojmo-Divi%C5%A1ovo-n%C3%A1m%C4%9Bst%C3%AD-busta-Prokopa-Divi%C5%A1e2019.jpg"
+    },
+    {
+     "slide": 6,
+     "title": "Prokop Divis plaque.jpg",
+     "author": "Michal Maňas",
+     "license": "CC BY 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prokop_Divis_plaque.jpg"
+    }
+   ],
+   "sources": [
+    {
+     "name": "biography.hiu.cas.cz",
+     "url": "https://biography.hiu.cas.cz/wiki/DIVI%C5%A0_Prokop_V%C3%A1clav_1698%E2%80%931765"
+    },
+    {
+     "name": "znojemsky.denik.cz",
+     "url": "https://znojemsky.denik.cz/zpravy_region/prvni-bleskosvod-postavil-prokop-divis-v-primeticich-20201226.html"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261104-1",
    "title": "Konopiště: Franz Ferdinand's Bohemian castle and its 1914 end",
