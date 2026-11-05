@@ -1,0 +1,43 @@
+{
+ "title": "a quiet brno side street at night",
+ "topic": "a quiet brno side street at night",
+ "series": "now",
+ "idea": "brno-side-street",
+ "variant": null,
+ "tag": null,
+ "music_mood": "night",
+ "caption": "a quiet brno side street at night\n\nSomewhere behind those glowing windows, the evening is moving slowly and kindly.\n\nAI-imagined scene, not archival footage.\n\nFollow for more Czechia.\n",
+ "duration_s": 17.5,
+ "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-20261105-brno-side-street/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-20261105-brno-side-street/cover.jpg",
+ "shot_checks": [
+  {
+   "name": "now-20261105-brno-side-street-test-0",
+   "problems": []
+  },
+  {
+   "name": "now-20261105-brno-side-street-0",
+   "problems": []
+  },
+  {
+   "name": "now-20261105-brno-side-street-1",
+   "problems": []
+  },
+  {
+   "name": "now-20261105-brno-side-street-3",
+   "problems": []
+  },
+  {
+   "name": "now-20261105-brno-side-street-4",
+   "problems": []
+  },
+  {
+   "name": "now-20261105-brno-side-street-5",
+   "problems": []
+  }
+ ],
+ "cost_usd": 2.411,
+ "failed_shots": [
+  "implausible (A glowing yellow leaf-like object floats in the sky above the street, which is physically impossible)"
+ ]
+}
