@@ -1,0 +1,45 @@
+{
+ "title": "a night out in Prague felt like:",
+ "topic": "a night out in Prague felt like:",
+ "series": "memories",
+ "variant": "stamp",
+ "tag": "smoking",
+ "music_mood": "memories",
+ "duration_s": 15.8,
+ "caption": "a night out in Prague felt like:\n\nWarm doors, wet cobbles and the long way home.\n\nAI-imagined scene, not archival footage.\n\nFollow for more Czechia.\n",
+ "shot_checks": [
+  {
+   "name": "rooftops-blue-hour",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "charles-bridge-night",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "lane-night",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "busy-pub-across-street",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "smoke-beer",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "doorway-snow",
+   "problems": [],
+   "why": ""
+  }
+ ],
+ "cost_usd": 1.42,
+ "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-night-2/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-night-2/cover.jpg"
+}
