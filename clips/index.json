@@ -254,6 +254,21 @@
    "mood": "buzzing",
    "subject": "busy pub from across the street",
    "smoking": false
+  },
+  {
+   "id": "now-20261105-brno-side-street-test-0",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-test-0.mp4",
+   "used_in": null,
+   "start": 1.45,
+   "seconds": 2.8,
+   "series": "now",
+   "model": "gemini-3.1-flash-image+kling-video/v2.5-turbo/standard/image-to-video",
+   "location": "Brno",
+   "time_of_day": "night",
+   "season": "autumn",
+   "mood": "quiet-night",
+   "subject": "tram wires over street",
+   "smoking": false
   }
  ]
 }
