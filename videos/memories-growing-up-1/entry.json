@@ -49,5 +49,15 @@
   }
  ],
  "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-growing-up-1/reel.mp4",
- "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-growing-up-1/cover.jpg"
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-growing-up-1/cover.jpg",
+ "audio": {
+  "audio_id": "793029340081786",
+  "title": "Nostalgia (Instrumental)",
+  "artist": "Alex Blue",
+  "audio_type": "music",
+  "mood": "memories",
+  "score": 9,
+  "why": "Instrumental nostalgia piece, ideal for a moody, reflective aesthetic edit."
+ },
+ "preferred_found": []
 }
