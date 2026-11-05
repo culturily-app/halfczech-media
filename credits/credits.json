@@ -1,6 +1,68 @@
 {
- "updated_at": "2026-11-05T18:13:17+00:00",
+ "updated_at": "2026-11-05T22:41:57+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261105-1",
+   "title": "Lidice, a Czech village the Nazis tried to erase",
+   "permalink": "https://www.instagram.com/p/DfYIIJ1mKkq/",
+   "published_at": "2026-11-05T22:41:53+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Památník Lidice , památník věnovaný obětovným dětem.jpg",
+     "author": "Michal Ritter",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Pam%C3%A1tn%C3%ADk_Lidice_,_pam%C3%A1tn%C3%ADk_v%C4%9Bnovan%C3%BD_ob%C4%9Btovn%C3%BDm_d%C4%9Btem.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Lidice Memorial 0088.jpg",
+     "author": "Ashley Pomeroy",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Lidice_Memorial_0088.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Lidice Memorial 2018 xy10.jpg",
+     "author": "PeterBraun74",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Lidice_Memorial_2018_xy10.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Lidice Memorial 2018 xy27.jpg",
+     "author": "PeterBraun74",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Lidice_Memorial_2018_xy27.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Lidice, pomník lidických dětí (8).jpg",
+     "author": "Lubor Ferenc",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Lidice,_pomn%C3%ADk_lidick%C3%BDch_d%C4%9Bt%C3%AD_(8).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://www.mzv.gov.cz/washington/en/culture_events/culture/past_cultural_events/exhibition_opening_tragedy_and_hope_of.html"
+    },
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.kudyznudy.cz/aktivity/pamatnik-lidice-pripomina-pochmurnou-minulost"
+    },
+    {
+     "name": "novinky.cz",
+     "url": "https://www.novinky.cz/domaci/clanek/pred-73-lety-vyhladili-naciste-lidice-305818"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261104-5",
    "title": "Prachov Rocks: Czech rock town with a royal rumor",
