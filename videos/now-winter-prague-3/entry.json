@@ -1,0 +1,40 @@
+{
+ "title": "what winter in Prague feels like",
+ "topic": "what winter in Prague feels like",
+ "series": "now",
+ "variant": null,
+ "tag": null,
+ "music_mood": "night",
+ "duration_s": 15.0,
+ "caption": "what winter in Prague feels like\n\nThe city goes quiet, the lamps come on early, and the whole place feels like it is holding its breath.\n\nAI-imagined scene, not archival footage.\n\nFollow for more Czechia.\n",
+ "shot_checks": [
+  {
+   "name": "bridge",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "vltava",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "square",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "svarak",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "lane",
+   "problems": [],
+   "why": ""
+  }
+ ],
+ "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-3/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-3/cover.jpg",
+ "reviewed_by_jake": "2026-11-04: reviewed the cut, took out the tram and the sled-like shot, called the rest perfect"
+}
