@@ -1,0 +1,49 @@
+{
+ "title": "growing up in Czechia felt like:",
+ "topic": "growing up in Czechia felt like:",
+ "series": "memories",
+ "variant": "line",
+ "tag": "smoking",
+ "music_mood": "memories",
+ "duration_s": 16.0,
+ "caption": "growing up in Czechia felt like:\n\nFrost on the window, a bike in summer, a warm room at the end of the day. It all still feels close.\n\nAI-imagined scene, not archival footage.\n\nFollow for more Czechia.\n",
+ "shot_checks": [
+  {
+   "name": "window",
+   "problems": [
+    "implausible"
+   ],
+   "why": "Frosty window with a panel apartment estate at dusk over snow matches the intended subject, but a translucent ghostly figure overlaps the buildings and sky, whi"
+  },
+  {
+   "name": "tramview",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "bike",
+   "problems": [
+    "implausible"
+   ],
+   "why": "Handlebars, hands on the grips, and a Czech-style village street with a chapel and stone houses match the intended subject and vintage look. Plausibility is mar"
+  },
+  {
+   "name": "radio",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "smoking",
+   "problems": [],
+   "why": ""
+  },
+  {
+   "name": "pub",
+   "problems": [],
+   "why": ""
+  }
+ ],
+ "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-growing-up-2/reel.mp4",
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/memories-growing-up-2/cover.jpg",
+ "reviewed_by_jake": "2026-11-04: reviewed the cut, took out the tram and the sled-like shot, called the rest perfect"
+}
