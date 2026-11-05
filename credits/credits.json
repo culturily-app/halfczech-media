@@ -1,6 +1,72 @@
 {
- "updated_at": "2026-11-05T03:18:46+00:00",
+ "updated_at": "2026-11-05T18:13:17+00:00",
  "posts": [
+  {
+   "slug": "discovery-20261104-5",
+   "title": "Prachov Rocks: Czech rock town with a royal rumor",
+   "permalink": "https://www.instagram.com/p/DfXpd1ck7zj/",
+   "published_at": "2026-11-05T18:13:12+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Trail through Prachov Rocks, Cesky Raj.jpg",
+     "author": "Dcpeets",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Trail_through_Prachov_Rocks,_Cesky_Raj.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Emperor's Passage, Prachov Rocks.jpg",
+     "author": "Stevacek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Emperor%27s_Passage,_Prachov_Rocks.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Czechia-Prachov-Rocks-974.jpg",
+     "author": "Bukvoed",
+     "license": "CC BY 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czechia-Prachov-Rocks-974.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Rozcesti, Prachovske skaly.jpg",
+     "author": "Stevacek",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rozcesti,_Prachovske_skaly.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Cesky Raj Prachov Rocks 1.jpg",
+     "author": "Dcpeets",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Cesky_Raj_Prachov_Rocks_1.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Kudy z nudy",
+     "url": "https://www.visitczechia.com/en-us/things-to-do/places/nature/rock-formations/c-prachov-rocks"
+    },
+    {
+     "name": "jicinsky.denik.cz",
+     "url": "https://jicinsky.denik.cz/zpravy_region/prachovske-rezervaci-je-devadesat-20181215.html"
+    },
+    {
+     "name": "novinky.cz",
+     "url": "https://www.novinky.cz/vase-zpravy/clanek/cesky-raj-nabizi-unikatni-koncentraci-skalnich-mest-vezi-a-piskovcovych-udoli-40178652"
+    },
+    {
+     "name": "AOPK",
+     "url": "https://ceskyraj.aopk.gov.cz/en/"
+    }
+   ]
+  },
   {
    "slug": "czech-vs-20261104-4",
    "title": "Czech schools: report cards and a school year rooted in tradition",
