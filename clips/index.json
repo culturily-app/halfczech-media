@@ -1,24 +1,9 @@
 {
  "clips": [
   {
-   "id": "letna",
-   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/letna.mp4",
-   "used_in": "memories-night-1",
-   "start": 0.2,
-   "seconds": 2.2,
-   "series": "memories",
-   "model": "soul-cinema+kling-2.5-standard",
-   "location": "Letná",
-   "time_of_day": "blue hour",
-   "season": "any",
-   "mood": "peaceful",
-   "subject": "viewpoint over Prague",
-   "smoking": false
-  },
-  {
    "id": "charles-bridge-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/charles-bridge-night.mp4",
-   "used_in": "memories-night-1",
+   "used_in": "memories-night-2",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -33,7 +18,7 @@
   {
    "id": "lane-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/lane-night.mp4",
-   "used_in": "memories-night-1",
+   "used_in": "memories-night-2",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -46,24 +31,9 @@
    "smoking": false
   },
   {
-   "id": "outside-pub",
-   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/outside-pub.mp4",
-   "used_in": "memories-night-1",
-   "start": 0.5,
-   "seconds": 2.8,
-   "series": "memories",
-   "model": "soul-cinema+kling-2.5-standard",
-   "location": "Prague street",
-   "time_of_day": "night",
-   "season": "any",
-   "mood": "buzzing",
-   "subject": "outside a busy pub",
-   "smoking": false
-  },
-  {
    "id": "smoke-beer",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/smoke-beer.mp4",
-   "used_in": "memories-night-1",
+   "used_in": "memories-night-2",
    "start": 0.2,
    "seconds": 2.2,
    "series": "memories",
@@ -78,7 +48,7 @@
   {
    "id": "doorway-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/doorway-snow.mp4",
-   "used_in": "memories-night-1",
+   "used_in": "memories-night-2",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -254,6 +224,36 @@
    "mood": "quiet-night",
    "subject": "cigarette in the mouth, snowy rooftops",
    "smoking": true
+  },
+  {
+   "id": "rooftops-blue-hour",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/rooftops-blue-hour.mp4",
+   "used_in": "memories-night-2",
+   "start": 0.5,
+   "seconds": 2.8,
+   "series": "memories",
+   "model": "soul-cinema+kling-2.5-standard",
+   "location": "Prague rooftops",
+   "time_of_day": "blue hour",
+   "season": "winter",
+   "mood": "peaceful",
+   "subject": "rooftops and castle",
+   "smoking": false
+  },
+  {
+   "id": "busy-pub-across-street",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/busy-pub-across-street.mp4",
+   "used_in": "memories-night-2",
+   "start": 0.2,
+   "seconds": 2.4,
+   "series": "memories",
+   "model": "soul-cinema+kling-2.5-standard",
+   "location": "Prague street",
+   "time_of_day": "night",
+   "season": "any",
+   "mood": "buzzing",
+   "subject": "busy pub from across the street",
+   "smoking": false
   }
  ]
 }
