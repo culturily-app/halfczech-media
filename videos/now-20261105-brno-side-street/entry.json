@@ -39,5 +39,15 @@
  "cost_usd": 2.411,
  "failed_shots": [
   "implausible (A glowing yellow leaf-like object floats in the sky above the street, which is physically impossible)"
- ]
+ ],
+ "audio": {
+  "audio_id": "2522464188181028",
+  "title": "After Hours",
+  "artist": "Fellow Travelers",
+  "audio_type": "music",
+  "mood": "night",
+  "score": 9,
+  "why": "After-hours title and sound match the nocturnal city aesthetic perfectly."
+ },
+ "preferred_found": []
 }
