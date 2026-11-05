@@ -13,7 +13,10 @@
    "season": "any",
    "mood": "quiet-night",
    "subject": "bridge and castle",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "lane-night",
@@ -28,7 +31,10 @@
    "season": "any",
    "mood": "quiet-night",
    "subject": "cobbled lane",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "smoke-beer",
@@ -43,7 +49,10 @@
    "season": "any",
    "mood": "cosy",
    "subject": "cigarette and beer",
-   "smoking": true
+   "smoking": true,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "doorway-snow",
@@ -58,7 +67,10 @@
    "season": "winter",
    "mood": "cosy",
    "subject": "pub doorway in snow",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "smoke-snow",
@@ -73,7 +85,10 @@
    "season": "winter",
    "mood": "quiet-night",
    "subject": "cigarette over a snowy ledge",
-   "smoking": true
+   "smoking": true,
+   "setting": "balcony",
+   "kind": "scenery",
+   "landmark_name": null
   },
   {
    "id": "tram-window",
@@ -88,7 +103,10 @@
    "season": "winter",
    "mood": "nostalgic",
    "subject": "street through a tram window",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "radio",
@@ -103,7 +121,10 @@
    "season": "any",
    "mood": "cosy",
    "subject": "radio on a windowsill",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "smoke-coffee",
@@ -118,7 +139,10 @@
    "season": "any",
    "mood": "peaceful",
    "subject": "cigarette and coffee",
-   "smoking": true
+   "smoking": true,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "pub-beer",
@@ -133,7 +157,10 @@
    "season": "any",
    "mood": "cosy",
    "subject": "beer in a dark pub",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "bridge-snow",
@@ -148,7 +175,10 @@
    "season": "winter",
    "mood": "peaceful",
    "subject": "bridge in snow",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "vltava-swans",
@@ -163,7 +193,10 @@
    "season": "winter",
    "mood": "peaceful",
    "subject": "swans and bridge",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "old-town-snow",
@@ -178,7 +211,10 @@
    "season": "winter",
    "mood": "buzzing",
    "subject": "Týn church in snow",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "svarak",
@@ -193,7 +229,10 @@
    "season": "winter",
    "mood": "cosy",
    "subject": "mug of svařák",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "lane-snow",
@@ -208,7 +247,10 @@
    "season": "winter",
    "mood": "peaceful",
    "subject": "snowy lane",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "smoke-mouth",
@@ -223,7 +265,10 @@
    "season": "winter",
    "mood": "quiet-night",
    "subject": "cigarette in the mouth, snowy rooftops",
-   "smoking": true
+   "smoking": true,
+   "setting": "balcony",
+   "kind": "pov",
+   "landmark_name": null
   },
   {
    "id": "rooftops-blue-hour",
@@ -238,7 +283,10 @@
    "season": "winter",
    "mood": "peaceful",
    "subject": "rooftops and castle",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "busy-pub-across-street",
@@ -253,7 +301,10 @@
    "season": "any",
    "mood": "buzzing",
    "subject": "busy pub from across the street",
-   "smoking": false
+   "smoking": false,
+   "setting": null,
+   "kind": null,
+   "landmark_name": null
   },
   {
    "id": "now-20261105-brno-side-street-test-0",
@@ -268,7 +319,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "tram wires over street",
-   "smoking": false
+   "smoking": false,
+   "setting": "street",
+   "kind": "subject",
+   "landmark_name": null
   },
   {
    "id": "now-20261105-brno-side-street-0",
@@ -283,7 +337,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "lit windows on townhouses",
-   "smoking": false
+   "smoking": false,
+   "setting": "street",
+   "kind": "scenery",
+   "landmark_name": null
   },
   {
    "id": "now-20261105-brno-side-street-1",
@@ -298,7 +355,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "empty pavement at night",
-   "smoking": false
+   "smoking": false,
+   "setting": "street",
+   "kind": "pov",
+   "landmark_name": null
   },
   {
    "id": "now-20261105-brno-side-street-3",
@@ -313,7 +373,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "tram crossing at street end",
-   "smoking": false
+   "smoking": false,
+   "setting": "street",
+   "kind": "subject",
+   "landmark_name": null
   },
   {
    "id": "now-20261105-brno-side-street-4",
@@ -328,7 +391,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "Petrov cathedral over rooftops",
-   "smoking": false
+   "smoking": false,
+   "setting": "skyline",
+   "kind": "scenery",
+   "landmark_name": "Petrov cathedral, Brno"
   },
   {
    "id": "now-20261105-brno-side-street-5",
@@ -343,7 +409,10 @@
    "season": "autumn",
    "mood": "quiet-night",
    "subject": "wet cobblestones with lamp reflection",
-   "smoking": false
+   "smoking": false,
+   "setting": "detail",
+   "kind": "detail",
+   "landmark_name": null
   }
  ]
 }
