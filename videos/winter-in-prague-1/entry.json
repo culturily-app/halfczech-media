@@ -9,5 +9,14 @@
  "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/winter-in-prague-1/cover.jpg",
  "sound_plan": "ambience+music",
  "has_ambience": false,
- "duration_s": 18
+ "duration_s": 18,
+ "audio": {
+  "audio_id": "2033904150707333",
+  "title": "Winter’s Spell (Reels Sound - Before & After)",
+  "artist": "Global Genius",
+  "audio_type": "music",
+  "mood": "night",
+  "score": 9,
+  "why": "Winter-themed ambient track with a soft, nocturnal atmosphere."
+ }
 }
