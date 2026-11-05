@@ -40,5 +40,15 @@
   }
  ],
  "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-2/reel.mp4",
- "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-2/cover.jpg"
+ "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-2/cover.jpg",
+ "audio": {
+  "audio_id": "1422834904558455",
+  "title": "Snowflakes",
+  "artist": "Ella Joy Meir",
+  "audio_type": "music",
+  "mood": "night",
+  "score": 9,
+  "why": "Delicate piano about snowflakes captures the winter night mood perfectly."
+ },
+ "preferred_found": []
 }
