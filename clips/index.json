@@ -239,6 +239,21 @@
    "mood": "peaceful",
    "subject": "snowy lane",
    "smoking": false
+  },
+  {
+   "id": "smoke-mouth",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/smoke-mouth.mp4",
+   "used_in": null,
+   "start": 0.2,
+   "seconds": 2.8,
+   "series": "memories",
+   "model": "soul-cinema+kling-2.5-standard",
+   "location": "Prague rooftops",
+   "time_of_day": "dusk",
+   "season": "winter",
+   "mood": "quiet-night",
+   "subject": "cigarette in the mouth, snowy rooftops",
+   "smoking": true
   }
  ]
 }
