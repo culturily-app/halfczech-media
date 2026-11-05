@@ -3,7 +3,7 @@
   {
    "id": "charles-bridge-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/charles-bridge-night.mp4",
-   "used_in": "memories-night-2",
+   "used_in": "memories-night-1",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -16,12 +16,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "lane-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/lane-night.mp4",
-   "used_in": "memories-night-2",
+   "used_in": "memories-night-1",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -34,12 +35,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "smoke-beer",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/smoke-beer.mp4",
-   "used_in": "memories-night-2",
+   "used_in": "memories-night-1",
    "start": 0.2,
    "seconds": 2.2,
    "series": "memories",
@@ -52,12 +54,13 @@
    "smoking": true,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "doorway-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/doorway-snow.mp4",
-   "used_in": "memories-night-2",
+   "used_in": "memories-night-1",
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -70,7 +73,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "smoke-snow",
@@ -88,7 +92,8 @@
    "smoking": true,
    "setting": "balcony",
    "kind": "scenery",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "tram-window",
@@ -106,7 +111,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "radio",
@@ -124,7 +130,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "smoke-coffee",
@@ -142,7 +149,8 @@
    "smoking": true,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "pub-beer",
@@ -160,12 +168,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "bridge-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/bridge-snow.mp4",
-   "used_in": "now-winter-prague-3",
+   "used_in": "now-winter-prague-2",
    "start": 0.5,
    "seconds": 3,
    "series": "now",
@@ -178,12 +187,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "vltava-swans",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/vltava-swans.mp4",
-   "used_in": "now-winter-prague-3",
+   "used_in": "now-winter-prague-2",
    "start": 0.5,
    "seconds": 3,
    "series": "now",
@@ -196,12 +206,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "old-town-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/old-town-snow.mp4",
-   "used_in": "now-winter-prague-3",
+   "used_in": "now-winter-prague-2",
    "start": 0.5,
    "seconds": 3,
    "series": "now",
@@ -214,12 +225,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "svarak",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/svarak.mp4",
-   "used_in": "now-winter-prague-3",
+   "used_in": "now-winter-prague-2",
    "start": 0.5,
    "seconds": 3,
    "series": "now",
@@ -232,12 +244,13 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "lane-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/lane-snow.mp4",
-   "used_in": "now-winter-prague-3",
+   "used_in": "now-winter-prague-2",
    "start": 0.5,
    "seconds": 3,
    "series": "now",
@@ -250,7 +263,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "used"
   },
   {
    "id": "smoke-mouth",
@@ -268,7 +282,8 @@
    "smoking": true,
    "setting": "balcony",
    "kind": "pov",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "rooftops-blue-hour",
@@ -286,7 +301,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "reserved"
   },
   {
    "id": "busy-pub-across-street",
@@ -304,7 +320,8 @@
    "smoking": false,
    "setting": null,
    "kind": null,
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "reserved"
   },
   {
    "id": "now-20261105-brno-side-street-test-0",
@@ -322,7 +339,8 @@
    "smoking": false,
    "setting": "street",
    "kind": "subject",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-0",
@@ -340,7 +358,8 @@
    "smoking": false,
    "setting": "street",
    "kind": "scenery",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-1",
@@ -358,7 +377,8 @@
    "smoking": false,
    "setting": "street",
    "kind": "pov",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-3",
@@ -376,7 +396,8 @@
    "smoking": false,
    "setting": "street",
    "kind": "subject",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-4",
@@ -394,7 +415,8 @@
    "smoking": false,
    "setting": "skyline",
    "kind": "scenery",
-   "landmark_name": "Petrov cathedral, Brno"
+   "landmark_name": "Petrov cathedral, Brno",
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-5",
@@ -412,7 +434,103 @@
    "smoking": false,
    "setting": "detail",
    "kind": "detail",
-   "landmark_name": null
+   "landmark_name": null,
+   "state": "free"
+  },
+  {
+   "id": "tram-snow",
+   "url": null,
+   "state": "used",
+   "used_in": "now-winter-prague-2",
+   "start": null,
+   "seconds": null,
+   "landmark_name": null,
+   "series": "now",
+   "model": "kling-2.5-standard",
+   "location": "Prague street",
+   "time_of_day": "day",
+   "season": "winter",
+   "mood": "peaceful",
+   "subject": "red and cream tram in snow",
+   "smoking": false,
+   "setting": "street",
+   "kind": "subject"
+  },
+  {
+   "id": "frost-window",
+   "url": null,
+   "state": "used",
+   "used_in": "memories-growing-up-2",
+   "start": null,
+   "seconds": null,
+   "landmark_name": null,
+   "series": "memories",
+   "model": "kling-2.5-standard",
+   "location": "apartment estate",
+   "time_of_day": "dawn",
+   "season": "winter",
+   "mood": "nostalgic",
+   "subject": "frosty window over an apartment estate",
+   "smoking": false,
+   "setting": "detail",
+   "kind": "detail"
+  },
+  {
+   "id": "bike-village",
+   "url": null,
+   "state": "used",
+   "used_in": "memories-growing-up-2",
+   "start": null,
+   "seconds": null,
+   "landmark_name": null,
+   "series": "memories",
+   "model": "kling-2.5-standard",
+   "location": "Czech village",
+   "time_of_day": "golden hour",
+   "season": "summer",
+   "mood": "peaceful",
+   "subject": "bicycle handlebars on a village street",
+   "smoking": false,
+   "setting": "street",
+   "kind": "pov"
+  },
+  {
+   "id": "letna",
+   "url": null,
+   "state": "used",
+   "used_in": "memories-night-1",
+   "start": null,
+   "seconds": null,
+   "landmark_name": null,
+   "series": "memories",
+   "model": "kling-2.5-standard",
+   "location": "Letná",
+   "time_of_day": "blue hour",
+   "season": "any",
+   "mood": "peaceful",
+   "subject": "viewpoint over Prague",
+   "smoking": false,
+   "setting": "skyline",
+   "kind": "scenery"
+  },
+  {
+   "id": "outside-pub",
+   "url": null,
+   "state": "used",
+   "used_in": "memories-night-1",
+   "start": null,
+   "seconds": null,
+   "landmark_name": null,
+   "series": "memories",
+   "model": "kling-2.5-standard",
+   "location": "Prague street",
+   "time_of_day": "night",
+   "season": "any",
+   "mood": "buzzing",
+   "subject": "outside a busy pub",
+   "smoking": false,
+   "setting": "street",
+   "kind": "subject"
   }
  ]
 }
