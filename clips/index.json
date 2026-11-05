@@ -17,7 +17,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "lane-night",
@@ -36,7 +36,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "smoke-beer",
@@ -55,7 +55,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "doorway-snow",
@@ -74,7 +74,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "smoke-snow",
@@ -112,7 +112,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "radio",
@@ -131,7 +131,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "smoke-coffee",
@@ -150,7 +150,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "pub-beer",
@@ -169,7 +169,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "bridge-snow",
@@ -188,7 +188,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "vltava-swans",
@@ -207,7 +207,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "old-town-snow",
@@ -226,7 +226,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "svarak",
@@ -245,7 +245,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "lane-snow",
@@ -264,7 +264,7 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "used"
+   "state": "reserved"
   },
   {
    "id": "smoke-mouth",
@@ -440,7 +440,7 @@
   {
    "id": "tram-snow",
    "url": null,
-   "state": "used",
+   "state": "reserved",
    "used_in": "now-winter-prague-2",
    "start": null,
    "seconds": null,
@@ -459,7 +459,7 @@
   {
    "id": "frost-window",
    "url": null,
-   "state": "used",
+   "state": "reserved",
    "used_in": "memories-growing-up-2",
    "start": null,
    "seconds": null,
@@ -478,7 +478,7 @@
   {
    "id": "bike-village",
    "url": null,
-   "state": "used",
+   "state": "reserved",
    "used_in": "memories-growing-up-2",
    "start": null,
    "seconds": null,
@@ -497,7 +497,7 @@
   {
    "id": "letna",
    "url": null,
-   "state": "used",
+   "state": "reserved",
    "used_in": "memories-night-1",
    "start": null,
    "seconds": null,
@@ -516,7 +516,7 @@
   {
    "id": "outside-pub",
    "url": null,
-   "state": "used",
+   "state": "reserved",
    "used_in": "memories-night-1",
    "start": null,
    "seconds": null,
@@ -532,5 +532,143 @@
    "setting": "street",
    "kind": "subject"
   }
- ]
+ ],
+ "drafts": {
+  "winter-in-prague-1": {
+   "clips": [],
+   "first_line": "what winter in prague feels like",
+   "series": "now",
+   "tag": null,
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  },
+  "now-winter-prague-2": {
+   "clips": [
+    "bridge-snow",
+    "tram-snow",
+    "vltava-swans",
+    "old-town-snow",
+    "svarak",
+    "lane-snow"
+   ],
+   "first_line": "what winter in prague feels like",
+   "series": "now",
+   "tag": null,
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": true
+  },
+  "now-winter-prague-3": {
+   "clips": [
+    "bridge-snow",
+    "vltava-swans",
+    "old-town-snow",
+    "svarak",
+    "lane-snow"
+   ],
+   "first_line": "what winter in prague feels like",
+   "series": "now",
+   "tag": null,
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  },
+  "memories-growing-up-1": {
+   "clips": [
+    "frost-window",
+    "tram-window",
+    "bike-village",
+    "radio",
+    "smoke-coffee",
+    "pub-beer"
+   ],
+   "first_line": "growing up in czechia felt like:",
+   "series": "memories",
+   "tag": "smoking",
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  },
+  "memories-growing-up-2": {
+   "clips": [
+    "frost-window",
+    "tram-window",
+    "bike-village",
+    "radio",
+    "smoke-coffee",
+    "pub-beer"
+   ],
+   "first_line": "growing up in czechia felt like:",
+   "series": "memories",
+   "tag": "smoking",
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": true
+  },
+  "memories-growing-up-2-stamped": {
+   "clips": [
+    "frost-window",
+    "tram-window",
+    "bike-village",
+    "radio",
+    "smoke-coffee",
+    "pub-beer"
+   ],
+   "first_line": "growing up in czechia felt like:",
+   "series": "memories",
+   "tag": "smoking",
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  },
+  "memories-night-1": {
+   "clips": [
+    "letna",
+    "charles-bridge-night",
+    "lane-night",
+    "outside-pub",
+    "smoke-beer",
+    "doorway-snow"
+   ],
+   "first_line": "a night out in prague felt like:",
+   "series": "memories",
+   "tag": "smoking",
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": true
+  },
+  "memories-night-2": {
+   "clips": [
+    "rooftops-blue-hour",
+    "charles-bridge-night",
+    "lane-night",
+    "busy-pub-across-street",
+    "smoke-beer",
+    "doorway-snow"
+   ],
+   "first_line": "a night out in prague felt like:",
+   "series": "memories",
+   "tag": "smoking",
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  },
+  "now-20261105-brno-side-street": {
+   "clips": [
+    "now-20261105-brno-side-street-test-0",
+    "now-20261105-brno-side-street-0",
+    "now-20261105-brno-side-street-1",
+    "now-20261105-brno-side-street-3",
+    "now-20261105-brno-side-street-4",
+    "now-20261105-brno-side-street-5"
+   ],
+   "first_line": "a quiet brno side street at night",
+   "series": "now",
+   "tag": null,
+   "delivered": "2026-11-05",
+   "status": "draft",
+   "prefer": false
+  }
+ }
 }
