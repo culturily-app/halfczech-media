@@ -36,5 +36,15 @@
  ],
  "video_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-3/reel.mp4",
  "cover_url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/videos/now-winter-prague-3/cover.jpg",
- "reviewed_by_jake": "2026-11-04: reviewed the cut, took out the tram and the sled-like shot, called the rest perfect"
+ "reviewed_by_jake": "2026-11-04: reviewed the cut, took out the tram and the sled-like shot, called the rest perfect",
+ "audio": {
+  "audio_id": "6071939692853079",
+  "title": "A Final Snowfall",
+  "artist": "Folk Physics",
+  "audio_type": "music",
+  "mood": "night",
+  "score": 9,
+  "why": "Snowfall title with a melancholic folk-physics mood, a near-perfect match for winter in Prague."
+ },
+ "preferred_found": []
 }
