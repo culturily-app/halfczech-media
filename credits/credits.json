@@ -1,6 +1,100 @@
 {
- "updated_at": "2026-11-05T22:41:57+00:00",
+ "updated_at": "2026-11-06T16:17:48+00:00",
  "posts": [
+  {
+   "slug": "hz-tatra87-photo-story",
+   "title": "This silver Tatra 87 carried Czech travellers Hanzelka and Zikmund through 44 countries",
+   "permalink": "https://www.instagram.com/p/DfaBEweiV4e/",
+   "published_at": "2026-11-06T16:17:44+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "J22 080 Tatra 87.jpg",
+     "author": "Falk2",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:J22_080_Tatra_87.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Tatra 87 (1947) in NTM Prague 01.jpg",
+     "author": "Addvisor",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Tatra_87_(1947)_in_NTM_Prague_01.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Tatra 87 (1947) in NTM Prague 02.jpg",
+     "author": "Addvisor",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Tatra_87_(1947)_in_NTM_Prague_02.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Tatra 87 at NTM, Prague.jpg",
+     "author": "Kotivalo",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Tatra_87_at_NTM,_Prague.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Tatra 87 Prague DSC04573.JPG",
+     "author": "Michał Derela",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Tatra_87_Prague_DSC04573.JPG",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 4,
+     "title": "National Technical Museum Prague – Tatra 87 (1947) side view.jpg",
+     "author": "Punteador",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:National_Technical_Museum_Prague_%E2%80%93_Tatra_87_(1947)_side_view.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 5,
+     "title": "National Technical Museum Prague – Tatra 87 (1947) front view.jpg",
+     "author": "Punteador",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:National_Technical_Museum_Prague_%E2%80%93_Tatra_87_(1947)_front_view.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "National Technical Museum Prague – Tatra 87 (1947) three-quarter front view.jpg",
+     "author": "Punteador",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:National_Technical_Museum_Prague_%E2%80%93_Tatra_87_(1947)_three-quarter_front_view.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "ntm.cz",
+     "url": "https://www.ntm.cz/archiv-clanku/tatra-87-cestovatelu-hanzelky-azikmunda-osirela-zemrel-miroslav-zikmund"
+    },
+    {
+     "name": "denik.cz",
+     "url": "https://www.denik.cz/cestovani/zikmund-hanzelka-tatra-20220209.html"
+    },
+    {
+     "name": "iROZHLAS",
+     "url": "https://regiony.rozhlas.cz/hanzelka-a-zikmund-nejslavnejsi-cesti-cestovatele-odjizdeli-na-svou-prvni-cestu-9044888"
+    },
+    {
+     "name": "ČT24",
+     "url": "https://ct24.ceskatelevize.cz/clanek/veda/fenomen-h-z-pred-70-lety-vyrazila-na-cestu-slavna-dvojice-hanzelka-a-zikmund-98640"
+    },
+    {
+     "name": "novinky.cz",
+     "url": "https://www.novinky.cz/clanek/domaci-prvni-cestu-zikmunda-a-hanzelky-pripomnela-po-70-letech-jizda-veteranu-40031436"
+    }
+   ]
+  },
   {
    "slug": "discovery-20261105-1",
    "title": "Lidice, a Czech village the Nazis tried to erase",
