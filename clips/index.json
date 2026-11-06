@@ -192,7 +192,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-06"
   },
   {
    "id": "vltava-swans",
@@ -211,7 +212,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-06"
   },
   {
    "id": "old-town-snow",
@@ -230,7 +232,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-06"
   },
   {
    "id": "svarak",
@@ -249,7 +252,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-06"
   },
   {
    "id": "lane-snow",
@@ -268,7 +272,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-06"
   },
   {
    "id": "smoke-mouth",
@@ -444,7 +449,7 @@
   {
    "id": "tram-snow",
    "url": null,
-   "state": "reserved",
+   "state": "used",
    "used_in": "now-winter-prague-2",
    "start": null,
    "seconds": null,
@@ -458,7 +463,8 @@
    "subject": "red and cream tram in snow",
    "smoking": false,
    "setting": "street",
-   "kind": "subject"
+   "kind": "subject",
+   "used_on": "2026-11-06"
   },
   {
    "id": "frost-window",
@@ -678,7 +684,7 @@
    "series": "now",
    "tag": null,
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": false
   },
   "now-winter-prague-2": {
@@ -694,8 +700,11 @@
    "series": "now",
    "tag": null,
    "delivered": "2026-11-05",
-   "status": "draft",
-   "prefer": true
+   "status": "posted",
+   "prefer": true,
+   "posted_on": "2026-11-06",
+   "media_id": "18119295083280026",
+   "permalink": "https://www.instagram.com/reel/DfZPAj1SZZu/"
   },
   "now-winter-prague-3": {
    "clips": [
@@ -709,7 +718,7 @@
    "series": "now",
    "tag": null,
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": false
   },
   "memories-growing-up-1": {
