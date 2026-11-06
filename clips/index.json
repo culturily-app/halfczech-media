@@ -354,7 +354,7 @@
   {
    "id": "now-20261105-brno-side-street-0",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-0.mp4",
-   "used_in": null,
+   "used_in": "now-20261106-brno-side-street",
    "start": 0.45,
    "seconds": 2.8,
    "series": "now",
@@ -368,12 +368,12 @@
    "setting": "street",
    "kind": "scenery",
    "landmark_name": null,
-   "state": "free"
+   "state": "reserved"
   },
   {
    "id": "now-20261105-brno-side-street-1",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-1.mp4",
-   "used_in": null,
+   "used_in": "now-20261106-brno-side-street",
    "start": 1.2,
    "seconds": 2.8,
    "series": "now",
@@ -387,7 +387,7 @@
    "setting": "street",
    "kind": "pov",
    "landmark_name": null,
-   "state": "free"
+   "state": "reserved"
   },
   {
    "id": "now-20261105-brno-side-street-3",
@@ -411,7 +411,7 @@
   {
    "id": "now-20261105-brno-side-street-4",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-4.mp4",
-   "used_in": null,
+   "used_in": "now-20261106-brno-side-street",
    "start": 1.95,
    "seconds": 2.8,
    "series": "now",
@@ -425,12 +425,12 @@
    "setting": "skyline",
    "kind": "scenery",
    "landmark_name": "Petrov cathedral, Brno",
-   "state": "free"
+   "state": "reserved"
   },
   {
    "id": "now-20261105-brno-side-street-5",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-5.mp4",
-   "used_in": null,
+   "used_in": "now-20261106-brno-side-street",
    "start": 0.2,
    "seconds": 2.8,
    "series": "now",
@@ -444,7 +444,7 @@
    "setting": "detail",
    "kind": "detail",
    "landmark_name": null,
-   "state": "free"
+   "state": "reserved"
   },
   {
    "id": "tram-snow",
@@ -679,8 +679,8 @@
   {
    "id": "now-20261106-brno-side-street-0",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261106-brno-side-street-0.mp4",
-   "state": "free",
-   "used_in": null,
+   "state": "reserved",
+   "used_in": "now-20261106-brno-side-street",
    "start": 2.2,
    "seconds": 2.8,
    "landmark_name": null,
@@ -698,8 +698,8 @@
   {
    "id": "now-20261106-brno-side-street-1",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261106-brno-side-street-1.mp4",
-   "state": "free",
-   "used_in": null,
+   "state": "reserved",
+   "used_in": "now-20261106-brno-side-street",
    "start": 0.95,
    "seconds": 2.8,
    "landmark_name": null,
@@ -876,6 +876,22 @@
    "posted_on": "2026-11-05",
    "media_id": "18014109890986411",
    "permalink": "https://www.instagram.com/reel/DfYD3JKBQUI/"
+  },
+  "now-20261106-brno-side-street": {
+   "clips": [
+    "now-20261105-brno-side-street-4",
+    "now-20261105-brno-side-street-0",
+    "now-20261105-brno-side-street-1",
+    "now-20261105-brno-side-street-5",
+    "now-20261106-brno-side-street-0",
+    "now-20261106-brno-side-street-1"
+   ],
+   "first_line": "a quiet brno side street at night",
+   "series": "now",
+   "tag": null,
+   "delivered": "2026-11-06",
+   "status": "draft",
+   "prefer": false
   }
  }
 }
