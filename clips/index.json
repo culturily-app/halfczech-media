@@ -112,7 +112,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-05"
   },
   {
    "id": "radio",
@@ -131,7 +132,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-05"
   },
   {
    "id": "smoke-coffee",
@@ -150,7 +152,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-05"
   },
   {
    "id": "pub-beer",
@@ -169,7 +172,8 @@
    "setting": null,
    "kind": null,
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-05"
   },
   {
    "id": "bridge-snow",
@@ -459,7 +463,7 @@
   {
    "id": "frost-window",
    "url": null,
-   "state": "reserved",
+   "state": "used",
    "used_in": "memories-growing-up-2",
    "start": null,
    "seconds": null,
@@ -473,12 +477,13 @@
    "subject": "frosty window over an apartment estate",
    "smoking": false,
    "setting": "detail",
-   "kind": "detail"
+   "kind": "detail",
+   "used_on": "2026-11-05"
   },
   {
    "id": "bike-village",
    "url": null,
-   "state": "reserved",
+   "state": "used",
    "used_in": "memories-growing-up-2",
    "start": null,
    "seconds": null,
@@ -492,7 +497,8 @@
    "subject": "bicycle handlebars on a village street",
    "smoking": false,
    "setting": "street",
-   "kind": "pov"
+   "kind": "pov",
+   "used_on": "2026-11-05"
   },
   {
    "id": "letna",
@@ -535,7 +541,7 @@
   {
    "id": "cg-prague-2004-riegrovy",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 0.7,
    "seconds": 2.35,
@@ -551,12 +557,13 @@
    "setting": "landscape",
    "kind": "scenery",
    "era": "2000s",
-   "place": "prague-riegrovy-sady"
+   "place": "prague-riegrovy-sady",
+   "used_on": "2026-11-05"
   },
   {
    "id": "cg-prague-2004-tram-bridge",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 0.1,
    "seconds": 2.35,
@@ -572,12 +579,13 @@
    "setting": "river",
    "kind": "subject",
    "era": "2000s",
-   "place": "prague-manes-bridge"
+   "place": "prague-manes-bridge",
+   "used_on": "2026-11-05"
   },
   {
    "id": "cg-prague-2004-embankment",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 2.2,
    "seconds": 2.35,
@@ -593,12 +601,13 @@
    "setting": "street",
    "kind": "pov",
    "era": "2000s",
-   "place": "prague-national-theatre"
+   "place": "prague-national-theatre",
+   "used_on": "2026-11-05"
   },
   {
    "id": "cg-prague-2004-old-town-square",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 0.95,
    "seconds": 2.35,
@@ -614,12 +623,13 @@
    "setting": "skyline",
    "kind": "detail",
    "era": "2000s",
-   "place": "prague-old-town-square"
+   "place": "prague-old-town-square",
+   "used_on": "2026-11-05"
   },
   {
    "id": "cg-prague-2004-zizkov-tower",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 0.2,
    "seconds": 2.35,
@@ -635,12 +645,13 @@
    "setting": "skyline",
    "kind": "scenery",
    "era": "2000s",
-   "place": "prague-zizkov-tower"
+   "place": "prague-zizkov-tower",
+   "used_on": "2026-11-05"
   },
   {
    "id": "cg-prague-2004-castle-night",
    "url": "",
-   "state": "reserved",
+   "state": "used",
    "used_in": "czech-game-prague-2004-advent",
    "start": 0.3,
    "seconds": 2.35,
@@ -656,7 +667,8 @@
    "setting": "skyline",
    "kind": "scenery",
    "era": "2000s",
-   "place": "prague-castle"
+   "place": "prague-castle",
+   "used_on": "2026-11-05"
   }
  ],
  "drafts": {
@@ -713,7 +725,7 @@
    "series": "memories",
    "tag": "smoking",
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": false
   },
   "memories-growing-up-2": {
@@ -729,8 +741,11 @@
    "series": "memories",
    "tag": "smoking",
    "delivered": "2026-11-05",
-   "status": "draft",
-   "prefer": true
+   "status": "posted",
+   "prefer": true,
+   "posted_on": "2026-11-05",
+   "media_id": "18137571584500431",
+   "permalink": "https://www.instagram.com/reel/DfWckJcysjp/"
   },
   "memories-growing-up-2-stamped": {
    "clips": [
@@ -745,7 +760,7 @@
    "series": "memories",
    "tag": "smoking",
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": false
   },
   "memories-night-1": {
@@ -809,8 +824,11 @@
    "series": "czech-game",
    "tag": null,
    "delivered": "2026-11-05",
-   "status": "draft",
-   "prefer": false
+   "status": "posted",
+   "prefer": false,
+   "posted_on": "2026-11-05",
+   "media_id": "18014109890986411",
+   "permalink": "https://www.instagram.com/reel/DfYD3JKBQUI/"
   }
  }
 }
