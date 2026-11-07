@@ -368,7 +368,8 @@
    "setting": "street",
    "kind": "scenery",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261105-brno-side-street-1",
@@ -387,7 +388,8 @@
    "setting": "street",
    "kind": "pov",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261105-brno-side-street-3",
@@ -425,7 +427,8 @@
    "setting": "skyline",
    "kind": "scenery",
    "landmark_name": "Petrov cathedral, Brno",
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261105-brno-side-street-5",
@@ -444,7 +447,8 @@
    "setting": "detail",
    "kind": "detail",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "tram-snow",
@@ -680,7 +684,7 @@
   {
    "id": "now-20261106-brno-side-street-0",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261106-brno-side-street-0.mp4",
-   "state": "reserved",
+   "state": "used",
    "used_in": "now-20261106-brno-side-street",
    "start": 2.2,
    "seconds": 2.8,
@@ -694,12 +698,13 @@
    "subject": "tram wires above a quiet street",
    "smoking": false,
    "setting": "detail",
-   "kind": "detail"
+   "kind": "detail",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261106-brno-side-street-1",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261106-brno-side-street-1.mp4",
-   "state": "reserved",
+   "state": "used",
    "used_in": "now-20261106-brno-side-street",
    "start": 0.95,
    "seconds": 2.8,
@@ -713,7 +718,8 @@
    "subject": "street through a tram window",
    "smoking": false,
    "setting": "vehicle",
-   "kind": "pov"
+   "kind": "pov",
+   "used_on": "2026-11-07"
   },
   {
    "id": "trailer-20261107-shot1",
@@ -1062,8 +1068,11 @@
    "series": "now",
    "tag": null,
    "delivered": "2026-11-06",
-   "status": "draft",
-   "prefer": false
+   "status": "posted",
+   "prefer": false,
+   "posted_on": "2026-11-07",
+   "media_id": null,
+   "permalink": null
   },
   "czechia-trailer-20261107": {
    "clips": [
