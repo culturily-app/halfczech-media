@@ -1399,6 +1399,48 @@
    "kind": "subject",
    "look": "realistic",
    "smoking": false
+  },
+  {
+   "id": "still-db76d72c8ac9",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/stills/still-db76d72c8ac9.jpg",
+   "local": "czechia-trailer/stills/shot8-take2.png",
+   "state": "free",
+   "subject": "Three silhouetted men on a balcony watching fireworks over a riverside city at night",
+   "location": "Prague",
+   "time_of_day": "night",
+   "season": "any",
+   "setting": "balcony",
+   "kind": "subject",
+   "look": "realistic",
+   "smoking": false
+  },
+  {
+   "id": "still-1612775a7402",
+   "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/stills/still-1612775a7402.jpg",
+   "local": "czechia-trailer/stills/shot8.upload.jpg",
+   "state": "free",
+   "subject": "Three silhouetted people watching fireworks over a riverside city",
+   "location": "Prague",
+   "time_of_day": "night",
+   "season": "any",
+   "setting": "balcony",
+   "kind": "subject",
+   "look": "realistic",
+   "smoking": false
+  },
+  {
+   "id": "still-e51367d25418",
+   "url": null,
+   "local": "czechia-trailer/stills/shot9.upload.jpg",
+   "state": "free",
+   "subject": "Police car with blue lights on wet cobbled street",
+   "location": "Prague",
+   "time_of_day": "night",
+   "season": "any",
+   "setting": "street",
+   "kind": "subject",
+   "look": "other",
+   "smoking": false
   }
  ]
 }
