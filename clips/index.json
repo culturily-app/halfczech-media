@@ -335,7 +335,7 @@
   {
    "id": "now-20261105-brno-side-street-test-0",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-test-0.mp4",
-   "used_in": null,
+   "used_in": "now-20261105-brno-side-street",
    "start": 1.45,
    "seconds": 2.8,
    "series": "now",
@@ -349,12 +349,13 @@
    "setting": "street",
    "kind": "subject",
    "landmark_name": null,
-   "state": "free"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261105-brno-side-street-0",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-0.mp4",
-   "used_in": "now-20261106-brno-side-street",
+   "used_in": "now-20261105-brno-side-street",
    "start": 0.45,
    "seconds": 2.8,
    "series": "now",
@@ -374,7 +375,7 @@
   {
    "id": "now-20261105-brno-side-street-1",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-1.mp4",
-   "used_in": "now-20261106-brno-side-street",
+   "used_in": "now-20261105-brno-side-street",
    "start": 1.2,
    "seconds": 2.8,
    "series": "now",
@@ -394,7 +395,7 @@
   {
    "id": "now-20261105-brno-side-street-3",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-3.mp4",
-   "used_in": null,
+   "used_in": "now-20261105-brno-side-street",
    "start": 0.2,
    "seconds": 2.8,
    "series": "now",
@@ -408,12 +409,13 @@
    "setting": "street",
    "kind": "subject",
    "landmark_name": null,
-   "state": "free"
+   "state": "used",
+   "used_on": "2026-11-07"
   },
   {
    "id": "now-20261105-brno-side-street-4",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-4.mp4",
-   "used_in": "now-20261106-brno-side-street",
+   "used_in": "now-20261105-brno-side-street",
    "start": 1.95,
    "seconds": 2.8,
    "series": "now",
@@ -433,7 +435,7 @@
   {
    "id": "now-20261105-brno-side-street-5",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/now-20261105-brno-side-street-5.mp4",
-   "used_in": "now-20261106-brno-side-street",
+   "used_in": "now-20261105-brno-side-street",
    "start": 0.2,
    "seconds": 2.8,
    "series": "now",
@@ -1033,8 +1035,11 @@
    "series": "now",
    "tag": null,
    "delivered": "2026-11-05",
-   "status": "draft",
-   "prefer": false
+   "status": "posted",
+   "prefer": false,
+   "posted_on": "2026-11-07",
+   "media_id": "18122431819746482",
+   "permalink": "https://www.instagram.com/reel/Dfc6RGTAO3x/"
   },
   "czech-game-prague-2004-advent": {
    "clips": [
