@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-11-06T16:17:48+00:00",
+ "updated_at": "2026-11-07T16:04:10+00:00",
  "posts": [
+  {
+   "slug": "heritage-20261105-2",
+   "title": "Vojta Náprstek, a Prague man's American years",
+   "permalink": "https://www.instagram.com/p/DfckMcNGCpN/",
+   "published_at": "2026-11-07T16:04:06+00:00",
+   "photos": [
+    {
+     "slide": 4,
+     "title": "Náprstek Museum - panoramio.jpg",
+     "author": "Mister No",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:N%C3%A1prstek_Museum_-_panoramio.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "nm.cz",
+     "url": "https://www.nm.cz/en/naprstek-museum/vojta-naprstek-reloaded"
+    },
+    {
+     "name": "lib.cas.cz",
+     "url": "https://lib.cas.cz/zpravodaj/vojtech-naprstek-17-4-1826-praha-2-9-1894-praha/"
+    },
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://mzv.gov.cz/washington/en/culture_events/cz_us_community/history_of_czech_in_usa/czech_pioneers_in_wisconsin.html"
+    }
+   ]
+  },
   {
    "slug": "hz-tatra87-photo-story",
    "title": "This silver Tatra 87 carried Czech travellers Hanzelka and Zikmund through 44 countries",
