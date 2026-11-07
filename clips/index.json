@@ -3,7 +3,7 @@
   {
    "id": "charles-bridge-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/charles-bridge-night.mp4",
-   "used_in": "memories-night-1",
+   "used_in": null,
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -14,15 +14,15 @@
    "mood": "quiet-night",
    "subject": "bridge and castle",
    "smoking": false,
-   "setting": null,
-   "kind": null,
+   "setting": "river",
+   "kind": "scenery",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "lane-night",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/lane-night.mp4",
-   "used_in": "memories-night-1",
+   "used_in": null,
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -33,15 +33,15 @@
    "mood": "quiet-night",
    "subject": "cobbled lane",
    "smoking": false,
-   "setting": null,
-   "kind": null,
+   "setting": "street",
+   "kind": "pov",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "smoke-beer",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/smoke-beer.mp4",
-   "used_in": "memories-night-1",
+   "used_in": null,
    "start": 0.2,
    "seconds": 2.2,
    "series": "memories",
@@ -52,15 +52,15 @@
    "mood": "cosy",
    "subject": "cigarette and beer",
    "smoking": true,
-   "setting": null,
-   "kind": null,
+   "setting": "balcony",
+   "kind": "detail",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "doorway-snow",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/doorway-snow.mp4",
-   "used_in": "memories-night-1",
+   "used_in": null,
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -71,10 +71,10 @@
    "mood": "cosy",
    "subject": "pub doorway in snow",
    "smoking": false,
-   "setting": null,
-   "kind": null,
+   "setting": "street",
+   "kind": "detail",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "smoke-snow",
@@ -297,7 +297,7 @@
   {
    "id": "rooftops-blue-hour",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/rooftops-blue-hour.mp4",
-   "used_in": "memories-night-2",
+   "used_in": null,
    "start": 0.5,
    "seconds": 2.8,
    "series": "memories",
@@ -308,15 +308,15 @@
    "mood": "peaceful",
    "subject": "rooftops and castle",
    "smoking": false,
-   "setting": null,
-   "kind": null,
+   "setting": "skyline",
+   "kind": "scenery",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "busy-pub-across-street",
    "url": "https://raw.githubusercontent.com/culturily-app/halfczech-media/main/clips/busy-pub-across-street.mp4",
-   "used_in": "memories-night-2",
+   "used_in": null,
    "start": 0.2,
    "seconds": 2.4,
    "series": "memories",
@@ -327,10 +327,10 @@
    "mood": "buzzing",
    "subject": "busy pub from across the street",
    "smoking": false,
-   "setting": null,
-   "kind": null,
+   "setting": "street",
+   "kind": "subject",
    "landmark_name": null,
-   "state": "reserved"
+   "state": "free"
   },
   {
    "id": "now-20261105-brno-side-street-test-0",
@@ -509,8 +509,8 @@
   {
    "id": "letna",
    "url": null,
-   "state": "reserved",
-   "used_in": "memories-night-1",
+   "state": "free",
+   "used_in": null,
    "start": null,
    "seconds": null,
    "landmark_name": null,
@@ -528,8 +528,8 @@
   {
    "id": "outside-pub",
    "url": null,
-   "state": "reserved",
-   "used_in": "memories-night-1",
+   "state": "free",
+   "used_in": null,
    "start": null,
    "seconds": null,
    "landmark_name": null,
@@ -542,7 +542,8 @@
    "subject": "outside a busy pub",
    "smoking": false,
    "setting": "street",
-   "kind": "subject"
+   "kind": "subject",
+   "blocked": "sense check 2026-11-05: logo or text, face in focus"
   },
   {
    "id": "cg-prague-2004-riegrovy",
@@ -994,7 +995,7 @@
    "series": "memories",
    "tag": "smoking",
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": true
   },
   "memories-night-2": {
@@ -1010,7 +1011,7 @@
    "series": "memories",
    "tag": "smoking",
    "delivered": "2026-11-05",
-   "status": "draft",
+   "status": "discarded",
    "prefer": false
   },
   "now-20261105-brno-side-street": {
