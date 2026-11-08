@@ -1,6 +1,63 @@
 {
- "updated_at": "2026-11-07T16:04:10+00:00",
+ "updated_at": "2026-11-08T16:16:38+00:00",
  "posts": [
+  {
+   "slug": "new-01-read-this-first",
+   "title": "New to Prague / Czech Republic: New to Prague? Read this first 👇",
+   "permalink": "https://www.instagram.com/p/DffKbByjdbq/",
+   "published_at": "2026-11-08T16:16:34+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Panorama z hradeb Vyšehradu na jih - Praha Vltava - panoramio.jpg",
+     "author": "Jiří Antonín Votýpka",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Panorama_z_hradeb_Vy%C5%A1ehradu_na_jih_-_Praha_Vltava_-_panoramio.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Praha, Hloubětín, Lehovec, tramvajová konečná.JPG",
+     "author": "I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery.",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Praha,_Hloub%C4%9Bt%C3%ADn,_Lehovec,_tramvajov%C3%A1_kone%C4%8Dn%C3%A1.JPG",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Trains leaving Hůrka station 2.jpg",
+     "author": "AVDLCZ",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Trains_leaving_H%C5%AFrka_station_2.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Blue glass with carbonated water.jpg",
+     "author": "W.carter",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Blue_glass_with_carbonated_water.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Sett Paved Street in Prague, 2008.jpg",
+     "author": "Jorge Láscar from Australia",
+     "license": "CC BY 2.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sett_Paved_Street_in_Prague,_2008.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Doubrava as seen from a local hill.jpg",
+     "author": "Tadeáš Bednarz",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Doubrava_as_seen_from_a_local_hill.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": []
+  },
   {
    "slug": "heritage-20261105-2",
    "title": "Vojta Náprstek, a Prague man's American years",
