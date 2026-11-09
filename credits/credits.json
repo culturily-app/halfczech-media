@@ -1,6 +1,71 @@
 {
- "updated_at": "2026-11-08T19:03:20+00:00",
+ "updated_at": "2026-11-09T07:17:40+00:00",
  "posts": [
+  {
+   "slug": "new-03-money-and-shops",
+   "title": "New to Prague / Czech Republic: Money and shops in the Czech Republic: what I wish I knew 👇",
+   "permalink": "https://www.instagram.com/p/DfgxiCtlJVv/",
+   "published_at": "2026-11-09T07:17:36+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Czech-04044 - Long Way Down (32207186873).jpg",
+     "author": "Dennis G. Jarvis",
+     "license": "CC BY-SA 2.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czech-04044_-_Long_Way_Down_(32207186873).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Prague Café Louvre Interior 4.jpg",
+     "author": "Ymblanter",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prague_Caf%C3%A9_Louvre_Interior_4.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Coffee in Montreal (Unsplash).jpg",
+     "author": "Luke Chesser lukechesser",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Coffee_in_Montreal_(Unsplash).jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Brno-Novy Liskovec - Upatni street 04.jpg",
+     "author": "Kirk",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Brno-Novy_Liskovec_-_Upatni_street_04.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Brno-Novy Liskovec - Plachty street.jpg",
+     "author": "Kirk",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Brno-Novy_Liskovec_-_Plachty_street.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Chotěšov (okres Litoměřice), okolní krajina.JPG",
+     "author": "Juan de Vojníkov",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Chot%C4%9B%C5%A1ov_(okres_Litom%C4%9B%C5%99ice),_okoln%C3%AD_krajina.JPG",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+     "slide": 7,
+     "title": "31.8.16 Vlkov to Veseli 74 (29283004142).jpg",
+     "author": "donald judge",
+     "license": "CC BY 2.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:31.8.16_Vlkov_to_Veseli_74_(29283004142).jpg",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/"
+    }
+   ],
+   "sources": []
+  },
   {
    "slug": "cal-02-prague-does-better",
    "title": "A Californian in Prague: Things Prague does better than California (as a Californian):",
