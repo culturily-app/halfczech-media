@@ -1,1 +1,1 @@
-{"publish_next": "2026-11-10T11:00:00+01:00", "crons": "|5 8 * * *|5 11 * * *|5 14 * * *|5 17 * * *|5 20 * * *|", "zone": "Europe/Prague", "supply": "running"}
+{"publish_next": "2026-11-10T11:00:00+01:00", "crons": "|5 8 * * *|5 11 * * *|5 14 * * *|5 17 * * *|5 20 * * *|", "zone": "Europe/Prague", "supply": "done"}
