@@ -1,6 +1,61 @@
 {
- "updated_at": "2026-11-11T10:01:15+00:00",
+ "updated_at": "2026-11-11T19:08:00+00:00",
  "posts": [
+  {
+   "slug": "cal-202611100140-easter-pomlazka-willow-whip",
+   "title": "A Californian in Prague: Easter in Prague had a tradition I never saw in California 🐣",
+   "permalink": "https://www.instagram.com/p/DfnMh-eoYue/",
+   "published_at": "2026-11-11T19:07:56+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Rumburk - soubor tkalcovských domků ve Šmilovského ulici (stav srpen 2024) (8).jpg",
+     "author": "MartinVeselka",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rumburk_-_soubor_tkalcovsk%C3%BDch_domk%C5%AF_ve_%C5%A0milovsk%C3%A9ho_ulici_(stav_srpen_2024)_(8).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Twelve-rod pomlazka.jpg",
+     "author": "Josef Plch",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Twelve-rod_pomlazka.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Praha Žižkov Mezi hřbitovy.jpg",
+     "author": "VitVit",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Praha_%C5%BDi%C5%BEkov_Mezi_h%C5%99bitovy.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 4,
+     "title": "A traditional house - Flickr - Ted Moravec.jpg",
+     "author": "Ted Moravec",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:A_traditional_house_-_Flickr_-_Ted_Moravec.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Velikonoční vajíčka malovaná voskem.jpg",
+     "author": "Czeva",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Velikono%C4%8Dn%C3%AD_vaj%C3%AD%C4%8Dka_malovan%C3%A1_voskem.jpg"
+    },
+    {
+     "slide": 6,
+     "title": "New houses on Bělohorská street in Brno-Juliánov.JPG",
+     "author": "Kirk",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:New_houses_on_B%C4%9Blohorsk%C3%A1_street_in_Brno-Juli%C3%A1nov.JPG",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+   ],
+   "sources": []
+  },
   {
    "slug": "cal-202611100140-czech-trail-markers-hiking",
    "title": "A Californian in Prague: Hiking in the Czech Republic is nothing like a California trail 🥾",
