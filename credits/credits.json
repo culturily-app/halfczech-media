@@ -1,6 +1,68 @@
 {
- "updated_at": "2026-11-11T19:08:00+00:00",
+ "updated_at": "2026-11-12T17:37:15+00:00",
  "posts": [
+  {
+   "slug": "citizenship-20261109-4",
+   "title": "Where the declaration is made",
+   "permalink": "https://www.instagram.com/p/DfpmzePjR2S/",
+   "published_at": "2026-11-12T17:37:10+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Brno-Zidenice - Doslikova.jpg",
+     "author": "Kirk",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Brno-Zidenice_-_Doslikova.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Czech embassy 2.JPG",
+     "author": "Slowking4",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czech_embassy_2.JPG",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Prague, Old Town Square, COVID.jpg",
+     "author": "Tadeáš Gregor",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Prague,_Old_Town_Square,_COVID.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Jana Želivského, zastávka Mezi hřbitovy.jpg",
+     "author": "cs:ŠJů",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Jana_%C5%BDelivsk%C3%A9ho,_zast%C3%A1vka_Mezi_h%C5%99bitovy.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Czech-2013-Prague-V.J. Rott building (Door).jpg",
+     "author": "Godot13",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-V.J._Rott_building_(Door).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Brno-Novy Liskovec - southern part of Rybnicka street from south.jpg",
+     "author": "Kirk",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Brno-Novy_Liskovec_-_southern_part_of_Rybnicka_street_from_south.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://www.mzv.gov.cz/consulate.newyork/en/visa_and_consular_information/consular_information/about_czech_citizenship_and_dual/new_citizenship_legislation_of_the_czech.html"
+    }
+   ]
+  },
   {
    "slug": "cal-202611100140-easter-pomlazka-willow-whip",
    "title": "A Californian in Prague: Easter in Prague had a tradition I never saw in California 🐣",
