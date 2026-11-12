@@ -1,6 +1,63 @@
 {
- "updated_at": "2026-11-12T17:37:15+00:00",
+ "updated_at": "2026-11-12T19:07:14+00:00",
  "posts": [
+  {
+   "slug": "cal-202611100140-dumplings-knedliky",
+   "title": "A Californian in Prague: Czech dumplings are not a snack. They are the main supporting actor. 🥟",
+   "permalink": "https://www.instagram.com/p/DfpxHfHl2am/",
+   "published_at": "2026-11-12T19:07:10+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Kynuté knedlíky, strouhaný tvaroh, práškový cukr, omastek.jpg",
+     "author": "Dezidor",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Kynut%C3%A9_knedl%C3%ADky,_strouhan%C3%BD_tvaroh,_pr%C3%A1%C5%A1kov%C3%BD_cukr,_omastek.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+     "slide": 2,
+     "title": "A traditional house - Flickr - Ted Moravec.jpg",
+     "author": "Ted Moravec",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:A_traditional_house_-_Flickr_-_Ted_Moravec.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 3,
+     "title": "Vepro knedlo zelo 20250304 150354.jpg",
+     "author": "VANOCE2022",
+     "license": "CC0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Vepro_knedlo_zelo_20250304_150354.jpg",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Svícková na smetane, houskový knedlík, citron, brusinky.jpg",
+     "author": "Nillerdk",
+     "license": "CC BY 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Sv%C3%ADckov%C3%A1_na_smetane,_houskov%C3%BD_knedl%C3%ADk,_citron,_brusinky.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Žižkov, Jana Želivského, od křižovatky Želivského.jpg",
+     "author": "ŠJů",
+     "license": "CC BY 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:%C5%BDi%C5%BEkov,_Jana_%C5%BDelivsk%C3%A9ho,_od_k%C5%99i%C5%BEovatky_%C5%BDelivsk%C3%A9ho.jpg",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Brno-Novy Liskovec - Plachty street.jpg",
+     "author": "Kirk",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Brno-Novy_Liskovec_-_Plachty_street.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": []
+  },
   {
    "slug": "citizenship-20261109-4",
    "title": "Where the declaration is made",
