@@ -1,6 +1,67 @@
 {
- "updated_at": "2026-11-18T07:12:28+00:00",
+ "updated_at": "2026-11-18T16:07:29+00:00",
  "posts": [
+  {
+   "slug": "citizenship-20261115-sp232034-1",
+   "title": "The fine print worth knowing",
+   "permalink": "https://www.instagram.com/p/Df45UrDF3DJ/",
+   "published_at": "2026-11-18T16:07:25+00:00",
+   "photos": [
+    {
+     "slide": 1,
+     "title": "Hradčany in Prague, 2018.jpg",
+     "author": "Szczecinolog",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dany_in_Prague,_2018.jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 2,
+     "title": "Pair of Child's Shoes LACMA M.67.8.170a-b.jpg",
+     "author": "unknown author",
+     "license": "Public domain",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Pair_of_Child%27s_Shoes_LACMA_M.67.8.170a-b.jpg"
+    },
+    {
+     "slide": 3,
+     "title": "Bratislava - Hlavné námestie (radnica).jpg",
+     "author": "Pudelek (Marcin Szala)",
+     "license": "CC BY-SA 3.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Bratislava_-_Hlavn%C3%A9_n%C3%A1mestie_(radnica).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+     "slide": 4,
+     "title": "Czech-04086 - Great View (32896254941).jpg",
+     "author": "Dennis G. Jarvis",
+     "license": "CC BY-SA 2.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Czech-04086_-_Great_View_(32896254941).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+     "slide": 5,
+     "title": "Rumburk - soubor tkalcovských domků ve Šmilovského ulici (stav srpen 2024) (8).jpg",
+     "author": "MartinVeselka",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:Rumburk_-_soubor_tkalcovsk%C3%BDch_domk%C5%AF_ve_%C5%A0milovsk%C3%A9ho_ulici_(stav_srpen_2024)_(8).jpg",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+     "slide": 6,
+     "title": "Вихід з Граду.JPG",
+     "author": "Siverec",
+     "license": "CC BY-SA 4.0",
+     "file_page": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D1%85%D1%96%D0%B4_%D0%B7_%D0%93%D1%80%D0%B0%D0%B4%D1%83.JPG",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ministry of Foreign Affairs",
+     "url": "https://mzv.gov.cz/washington/cz/konzularni_informace/obcanstvi/nabyvani_obcanstvi_prohlasenim.html"
+    }
+   ]
+  },
   {
    "slug": "new-202611152320-tourist-doctor-prague-without-czech-insu",
    "title": "New to Prague / Czech Republic: No Czech insurance? Prague has a doctor's desk for foreigners. 🏥",
